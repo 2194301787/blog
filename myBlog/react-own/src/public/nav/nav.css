@@ -1,0 +1,69 @@
+.Nav-page{
+    display: flex;
+    position: fixed;
+    width: 100%;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    z-index: 900;
+    justify-content: space-between;
+    top: 15%;
+    padding: 15px 30px;
+    align-items: center;
+    transition: 0.5s all;
+}
+#phone-show{
+    color: white;
+    font-size: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-left: 20px;
+}
+.nav-right-ul ul{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.home-page .nav-right-ul ul,.nav-right,.nav-left{
+    display: flex;
+    align-items: center;
+}
+.nav-right-ul ul li{
+    list-style: none;
+}
+.nav-right-ul ul li a{
+    text-decoration: none;
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+}
+.nav-right-regist{
+    margin-left: 30px;
+}
+.nav-right-regist button{
+    background: transparent;
+    color: white;
+}
+.nav-right-regist a{
+    padding: 10px;
+    color: white;
+    border-radius: 15px;
+    border: 1px solid white;
+    transition: 1s all;
+}
+.nav-right-regist a:hover{
+    background: white;
+    color: rgb(240, 146, 32);
+}
+.nav-right-ul .ant-anchor-wrapper{
+    background: transparent;
+}
+.nav-right-ul .ant-anchor-link .ant-anchor-link-title{
+    color: white;
+}
+.nav-right-ul .ant-anchor-ink{
+    display: none;
+}
+.nav-right-ul .ant-anchor{
+    display: flex;
+}
+.nav-right-ul .ant-anchor-link .ant-anchor-link-title-active{
+    color: aqua;
+}

@@ -1,0 +1,10 @@
+.addBlog-title{
+    position: relative;
+    padding-top: 120px;
+    padding-left: 2.5%;
+    font-weight: 700;
+    padding-bottom: 15px;
+}
+.addBlog-page .ant-input{
+    width: 250px;
+}

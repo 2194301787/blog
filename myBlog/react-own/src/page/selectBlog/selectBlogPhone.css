@@ -1,0 +1,9 @@
+@media screen and (max-width:568px){
+    .selectBlog-page .ant-row{
+        position: relative;
+        width:100%;
+        max-width:960px;
+        padding-top:35px;
+        margin-left:0px;
+    }
+}

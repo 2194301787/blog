@@ -1,0 +1,38 @@
+.limitBlog-page{
+    background: white;
+}
+.limitBlog-top{
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+    border-bottom: 1px solid #e7eaec;
+}
+.limitBlog-sort{
+    display: flex;
+    align-items: center;
+}
+.limitBlog-sort .sort{
+    display: inline-block;
+    cursor: pointer;
+}
+.show-limitBlog{
+    padding: 15px;
+}
+.show-limitBlog .show-limitBlog-ul{
+    width: 95%;
+}
+.show-limitBlog .show-limitBlog-ul li{
+    list-style: none;
+    border-bottom: 1px dashed #e7eaec;
+    padding-bottom: 15px;
+}
+.show-limitBlog-content span{
+    margin-left: 15px;
+}
+.show-limitBlog .show-limitBlog-ul li a{
+    font-size: 22px;
+    color: #585f69;
+}
+.show-limitBlog .show-limitBlog-ul li a:hover{
+    color: #19aa8d;
+}

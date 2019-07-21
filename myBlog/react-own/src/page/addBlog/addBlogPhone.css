@@ -1,0 +1,12 @@
+@media screen and (max-width:568px){
+    .addBlog-page .ant-input{
+        width: 200px;
+    }
+    .addBlog-page .w-e-toolbar{
+        flex-wrap: wrap;
+    }
+    .addBlog-page .w-e-panel-container{
+        width: 100% !important;
+        margin-left: -150px !important;
+    }
+}

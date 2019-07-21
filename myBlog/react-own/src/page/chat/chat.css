@@ -1,0 +1,93 @@
+.chat-page{
+    position: relative;
+    top: 112px;
+}
+.chat{
+    width: 80%;
+    margin: 0 auto;
+}
+.chat-let{
+    background: #404040;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+.chat-let h3{
+    color: white;
+}
+.chat-let ul{
+    padding: 0;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.chat-let ul li{
+    list-style: none;
+    margin-bottom: 15px;
+}
+.chat-let ul li .chat-name{
+    cursor: pointer;
+    margin-left: 15px;
+    color: white;
+}
+.chat-right{
+    background: #DDF0ED;
+    height: 600px;
+    overflow: auto;
+}
+.chat-right h3{
+    padding: 15px;
+    background: #DDF0ED;
+    border-bottom: 1px solid #D9D6CF;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.chat-right ul{
+    padding: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+.chat-right ul li{
+    list-style: none;
+    margin-bottom: 20px;
+}
+.chat-right-av{
+    display: flex;
+    align-items: center;
+}
+.chat-right-av .chat-right-p p{
+    margin: 0;
+    padding: 0;
+}
+.chat-right-av .chat-right-p{
+    margin: 0;
+    padding: 10px;
+    margin-left: 10px;
+}
+.chat-float-left{
+    justify-content: flex-start;
+}
+.chat-float-right{
+    justify-content: flex-end;
+}
+.chat-float-left p{
+    background: white;
+}
+.chat-private p{
+    background: #f17c67;
+}
+.chat-float-right p{
+    background: #ACE1AF;
+}
+.chat-message{
+    position: relative;
+    background: #DDF0ED;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+}
+.chat-message .w-e-text-container{
+    height: 200px !important;
+}
+.chat-editor{
+    background: white;
+}

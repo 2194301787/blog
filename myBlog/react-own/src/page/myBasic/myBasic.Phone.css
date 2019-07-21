@@ -1,0 +1,12 @@
+@media screen and (max-width:568px){
+    .MyBasic-page .ant-form-item{
+        display: block;
+    }
+    .MyBasic-page .ant-form-item-control-wrapper{
+        margin-left: 0px;
+    }
+    .MyBasic-left-ul{
+        padding-left: 0px;
+        margin-bottom: 30px;
+    }
+}

@@ -1,0 +1,14 @@
+.Comment-page{
+    padding: 30px;
+}
+.Comment-send{
+    width: 463px;
+}
+@media screen and (max-width:568px){
+    .Comment-page{
+        padding: 15px;
+    }
+    .Comment-send{
+        width: 100%;
+    }
+}

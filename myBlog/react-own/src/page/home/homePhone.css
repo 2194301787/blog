@@ -1,0 +1,17 @@
+@media screen and (max-width:568px){
+    .banner-bg{
+        height: 500px;
+    }
+    #wel-phone{
+        font-size: 4vh;
+        color: #fff;
+        font-weight: 300;
+        margin: 0;
+    }
+    .myHome h5{
+        margin-top: 10px;
+    }
+    .myHome{
+        top:49%;
+    }
+}
