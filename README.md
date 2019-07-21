@@ -1,4 +1,4 @@
-# bolg
+# blog
 个人博客
 
 ## 前端(react-own)
