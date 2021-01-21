@@ -16,6 +16,6 @@
     "morgan": "^1.9.1",
     "multiparty": "^4.2.1",
     "node-rsa": "^1.0.5",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   }
 }
